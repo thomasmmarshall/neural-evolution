@@ -8,7 +8,7 @@ int main()
     srand(time(0));
 
     /* Global variables */
-    int N = 100000;  /* Population size N */
+    int N = 10000;  /* Population size N */
     int tickspergeneration = 1000;
     int childrenperparent = 2;
 
